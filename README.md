@@ -16,6 +16,7 @@ git push origin master
 #git local アカウントの変更
 
 git config user.name {変更名}
+
 git config user.email {変更名}
 
 

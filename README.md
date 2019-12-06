@@ -1,4 +1,5 @@
 # FlutterTutorial
+#メモ
 #pushまでの流れ
 
 git add .{ファイル名}

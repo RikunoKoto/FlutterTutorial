@@ -22,7 +22,7 @@ git config user.email {変更名}
 
 #Flutter 実行
 
-//XcodeのSimulatorを起動
+XcodeのSimulatorを起動
 open -a Simulator (osi)
 
 プロジェクトフォルダーに移動して
